@@ -1,0 +1,10 @@
+item,value,unit,source
+GDP,1294271.7,RMB 100 million,NBS 2025 table 3-15
+household_disposable_income,786890.6,RMB 100 million,NBS 2025 table 3-15
+household_adjusted_disposable_income,877478.2,RMB 100 million,NBS 2025 table 3-15
+household_actual_consumption,602708.2,RMB 100 million,NBS 2025 table 3-15
+household_gross_saving,274770.1,RMB 100 million,NBS 2025 table 3-15
+nonfinancial_enterprise_gross_saving,246213.7,RMB 100 million,NBS 2025 table 3-15
+financial_institution_gross_saving,41341.9,RMB 100 million,NBS 2025 table 3-15
+general_government_gross_saving,-11332.7,RMB 100 million,NBS 2025 table 3-15
+total_gross_saving_reported,550992.9,RMB 100 million,NBS 2025 table 3-15

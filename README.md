@@ -1,5 +1,18 @@
 # China’s Economic Rebalancing / 中国经济再平衡
 
+## New research paper / 新研究论文 · 22 October 2026
+
+**[From Capital Accumulation to Household Welfare / 从资本积累到居民福利](papers/high-saving-consumption-transition/README.md)**
+
+A comparative working paper on household and corporate saving, consumption, fiscal institutions, and long-run welfare in China, Japan, Korea, Singapore, and the United States. Includes full Chinese and English papers, standalone PDFs, 27 numbered references, frozen data, and reproduction scripts.
+
+比较中国、日本、韩国、新加坡与美国的居民及企业储蓄、消费转型与财政制度，附中英文完整论文、PDF、27项参考来源、冻结数据及复核脚本。文稿为公开研究工作论文，尚非期刊同行评审论文。
+
+- [中文论文](papers/high-saving-consumption-transition/paper.zh-CN.md) · [English paper](papers/high-saving-consumption-transition/paper.en.md)
+- [中文PDF](papers/high-saving-consumption-transition/output/pdf/saving-consumption.zh-CN.pdf) · [English PDF](papers/high-saving-consumption-transition/output/pdf/saving-consumption.en.pdf)
+
+---
+
 **Trade surplus, the transition beyond land finance, household support, and the policy approval process.**  
 **贸易顺差、土地财政转型、居民支持政策与政策审批流程。**
 

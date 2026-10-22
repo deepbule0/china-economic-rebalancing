@@ -1,0 +1,876 @@
+iso3,country,year,indicator,label,value,unit,api_lastupdated
+CHN,China,2000,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.67667411710879,percent of GDP,2026-10-08
+CHN,China,2000,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.9834545142268,percent of GDP,2026-10-08
+CHN,China,2000,NE.CON.PRVT.ZS,household_consumption_pct_gdp,46.7513123268903,percent of GDP,2026-10-08
+CHN,China,2000,NE.CON.TOTL.ZS,total_consumption_pct_gdp,63.7347668411171,percent of GDP,2026-10-08
+CHN,China,2000,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,33.6326827140045,percent of GDP,2026-10-08
+CHN,China,2000,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,36.2652331588829,percent of GDP,2026-10-08
+CHN,China,2000,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,35.5826474435708,percent of GDP,2026-10-08
+CHN,China,2001,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.28417196444636,percent of GDP,2026-10-08
+CHN,China,2001,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.56557352932,percent of GDP,2026-10-08
+CHN,China,2001,NE.CON.PRVT.ZS,household_consumption_pct_gdp,45.5685898287494,percent of GDP,2026-10-08
+CHN,China,2001,NE.CON.TOTL.ZS,total_consumption_pct_gdp,62.1341633580694,percent of GDP,2026-10-08
+CHN,China,2001,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,35.523858010134,percent of GDP,2026-10-08
+CHN,China,2001,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,37.8658366419306,percent of GDP,2026-10-08
+CHN,China,2001,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,37.0775585847377,percent of GDP,2026-10-08
+CHN,China,2002,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.37759984341841,percent of GDP,2026-10-08
+CHN,China,2002,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.2233328656845,percent of GDP,2026-10-08
+CHN,China,2002,NE.CON.PRVT.ZS,household_consumption_pct_gdp,44.9841418387033,percent of GDP,2026-10-08
+CHN,China,2002,NE.CON.TOTL.ZS,total_consumption_pct_gdp,61.2074747043878,percent of GDP,2026-10-08
+CHN,China,2002,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,36.0687816828708,percent of GDP,2026-10-08
+CHN,China,2002,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,38.7925252956122,percent of GDP,2026-10-08
+CHN,China,2002,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,38.6609215616113,percent of GDP,2026-10-08
+CHN,China,2003,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.55665409110255,percent of GDP,2026-10-08
+CHN,China,2003,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.4631349581316,percent of GDP,2026-10-08
+CHN,China,2003,NE.CON.PRVT.ZS,household_consumption_pct_gdp,42.8053205220649,percent of GDP,2026-10-08
+CHN,China,2003,NE.CON.TOTL.ZS,total_consumption_pct_gdp,58.2684554801966,percent of GDP,2026-10-08
+CHN,China,2003,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,39.4280130265115,percent of GDP,2026-10-08
+CHN,China,2003,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,41.7315445198034,percent of GDP,2026-10-08
+CHN,China,2003,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,42.1609224814857,percent of GDP,2026-10-08
+CHN,China,2004,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.47450259619584,percent of GDP,2026-10-08
+CHN,China,2004,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.7768955354751,percent of GDP,2026-10-08
+CHN,China,2004,NE.CON.PRVT.ZS,household_consumption_pct_gdp,40.7469493630806,percent of GDP,2026-10-08
+CHN,China,2004,NE.CON.TOTL.ZS,total_consumption_pct_gdp,55.5237840075992,percent of GDP,2026-10-08
+CHN,China,2004,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,41.6343741627493,percent of GDP,2026-10-08
+CHN,China,2004,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,44.4762159924008,percent of GDP,2026-10-08
+CHN,China,2004,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,45.3715794530289,percent of GDP,2026-10-08
+CHN,China,2005,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,5.71199843031159,percent of GDP,2026-10-08
+CHN,China,2005,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.9800297513263,percent of GDP,2026-10-08
+CHN,China,2005,NE.CON.PRVT.ZS,household_consumption_pct_gdp,39.8129615733976,percent of GDP,2026-10-08
+CHN,China,2005,NE.CON.TOTL.ZS,total_consumption_pct_gdp,54.7930439819386,percent of GDP,2026-10-08
+CHN,China,2005,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,40.178086700104,percent of GDP,2026-10-08
+CHN,China,2005,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,45.2069560180614,percent of GDP,2026-10-08
+CHN,China,2005,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,45.5417056569754,percent of GDP,2026-10-08
+CHN,China,2006,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,8.30532573537482,percent of GDP,2026-10-08
+CHN,China,2006,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.0329501874396,percent of GDP,2026-10-08
+CHN,China,2006,NE.CON.PRVT.ZS,household_consumption_pct_gdp,38.0007673700593,percent of GDP,2026-10-08
+CHN,China,2006,NE.CON.TOTL.ZS,total_consumption_pct_gdp,53.0337175574988,percent of GDP,2026-10-08
+CHN,China,2006,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,39.6897003482818,percent of GDP,2026-10-08
+CHN,China,2006,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,46.9662824425012,percent of GDP,2026-10-08
+CHN,China,2006,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,47.7875413024031,percent of GDP,2026-10-08
+CHN,China,2007,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,9.79958953536146,percent of GDP,2026-10-08
+CHN,China,2007,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.8435861590045,percent of GDP,2026-10-08
+CHN,China,2007,NE.CON.PRVT.ZS,household_consumption_pct_gdp,36.6182835563683,percent of GDP,2026-10-08
+CHN,China,2007,NE.CON.TOTL.ZS,total_consumption_pct_gdp,51.4619061878031,percent of GDP,2026-10-08
+CHN,China,2007,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,40.2220879226288,percent of GDP,2026-10-08
+CHN,China,2007,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,48.5380938121969,percent of GDP,2026-10-08
+CHN,China,2007,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,49.7906549255041,percent of GDP,2026-10-08
+CHN,China,2008,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,9.0108699631763,percent of GDP,2026-10-08
+CHN,China,2008,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.7289171300496,percent of GDP,2026-10-08
+CHN,China,2008,NE.CON.PRVT.ZS,household_consumption_pct_gdp,35.5421749900869,percent of GDP,2026-10-08
+CHN,China,2008,NE.CON.TOTL.ZS,total_consumption_pct_gdp,50.2710921201365,percent of GDP,2026-10-08
+CHN,China,2008,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,41.9607249432501,percent of GDP,2026-10-08
+CHN,China,2008,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,49.7289078798635,percent of GDP,2026-10-08
+CHN,China,2008,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,51.2655667529843,percent of GDP,2026-10-08
+CHN,China,2009,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,4.68740638141982,percent of GDP,2026-10-08
+CHN,China,2009,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.9931908239159,percent of GDP,2026-10-08
+CHN,China,2009,NE.CON.PRVT.ZS,household_consumption_pct_gdp,35.578875871033,percent of GDP,2026-10-08
+CHN,China,2009,NE.CON.TOTL.ZS,total_consumption_pct_gdp,50.5720666949489,percent of GDP,2026-10-08
+CHN,China,2009,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,44.9282638913962,percent of GDP,2026-10-08
+CHN,China,2009,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,49.4279333050511,percent of GDP,2026-10-08
+CHN,China,2009,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,49.8735875934712,percent of GDP,2026-10-08
+CHN,China,2010,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.84025673415249,percent of GDP,2026-10-08
+CHN,China,2010,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.837784222569,percent of GDP,2026-10-08
+CHN,China,2010,NE.CON.PRVT.ZS,household_consumption_pct_gdp,34.6030669287517,percent of GDP,2026-10-08
+CHN,China,2010,NE.CON.TOTL.ZS,total_consumption_pct_gdp,49.4408511513207,percent of GDP,2026-10-08
+CHN,China,2010,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,46.1023443345586,percent of GDP,2026-10-08
+CHN,China,2010,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,50.5591488486793,percent of GDP,2026-10-08
+CHN,China,2010,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,50.7951259924622,percent of GDP,2026-10-08
+CHN,China,2011,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.77399724587567,percent of GDP,2026-10-08
+CHN,China,2011,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.511543498627,percent of GDP,2026-10-08
+CHN,China,2011,NE.CON.PRVT.ZS,household_consumption_pct_gdp,35.249530166574,percent of GDP,2026-10-08
+CHN,China,2011,NE.CON.TOTL.ZS,total_consumption_pct_gdp,50.761073665201,percent of GDP,2026-10-08
+CHN,China,2011,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,46.2703012824496,percent of GDP,2026-10-08
+CHN,China,2011,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,49.238926334799,percent of GDP,2026-10-08
+CHN,China,2011,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,48.6410622284448,percent of GDP,2026-10-08
+CHN,China,2012,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.48328422404793,percent of GDP,2026-10-08
+CHN,China,2012,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.9047696976095,percent of GDP,2026-10-08
+CHN,China,2012,NE.CON.PRVT.ZS,household_consumption_pct_gdp,35.7107241394048,percent of GDP,2026-10-08
+CHN,China,2012,NE.CON.TOTL.ZS,total_consumption_pct_gdp,51.6154938370143,percent of GDP,2026-10-08
+CHN,China,2012,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,45.8169211701107,percent of GDP,2026-10-08
+CHN,China,2012,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,48.3845061629857,percent of GDP,2026-10-08
+CHN,China,2012,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,48.1956233738576,percent of GDP,2026-10-08
+CHN,China,2013,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.52111320885029,percent of GDP,2026-10-08
+CHN,China,2013,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.9462837052091,percent of GDP,2026-10-08
+CHN,China,2013,NE.CON.PRVT.ZS,household_consumption_pct_gdp,36.1289393837992,percent of GDP,2026-10-08
+CHN,China,2013,NE.CON.TOTL.ZS,total_consumption_pct_gdp,52.0752230890083,percent of GDP,2026-10-08
+CHN,China,2013,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,45.9224093546636,percent of GDP,2026-10-08
+CHN,China,2013,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,47.9247769109917,percent of GDP,2026-10-08
+CHN,China,2013,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,47.0363460228068,percent of GDP,2026-10-08
+CHN,China,2014,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.21130586371267,percent of GDP,2026-10-08
+CHN,China,2014,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.8783188765672,percent of GDP,2026-10-08
+CHN,China,2014,NE.CON.PRVT.ZS,household_consumption_pct_gdp,36.9862190673163,percent of GDP,2026-10-08
+CHN,China,2014,NE.CON.TOTL.ZS,total_consumption_pct_gdp,52.8645226949346,percent of GDP,2026-10-08
+CHN,China,2014,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,45.3115352657107,percent of GDP,2026-10-08
+CHN,China,2014,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,47.1354773050654,percent of GDP,2026-10-08
+CHN,China,2014,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,47.2736238197056,percent of GDP,2026-10-08
+CHN,China,2015,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.59752794949746,percent of GDP,2026-10-08
+CHN,China,2015,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.2578121496943,percent of GDP,2026-10-08
+CHN,China,2015,NE.CON.PRVT.ZS,household_consumption_pct_gdp,38.0605584392569,percent of GDP,2026-10-08
+CHN,China,2015,NE.CON.TOTL.ZS,total_consumption_pct_gdp,54.3183705889512,percent of GDP,2026-10-08
+CHN,China,2015,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,42.7349872564364,percent of GDP,2026-10-08
+CHN,China,2015,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,45.6816294110488,percent of GDP,2026-10-08
+CHN,China,2015,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,45.1016053776732,percent of GDP,2026-10-08
+CHN,China,2016,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.67018709565351,percent of GDP,2026-10-08
+CHN,China,2016,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.4004661104345,percent of GDP,2026-10-08
+CHN,China,2016,NE.CON.PRVT.ZS,household_consumption_pct_gdp,39.1623543569108,percent of GDP,2026-10-08
+CHN,China,2016,NE.CON.TOTL.ZS,total_consumption_pct_gdp,55.5628204673453,percent of GDP,2026-10-08
+CHN,China,2016,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,42.1386166189127,percent of GDP,2026-10-08
+CHN,China,2016,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,44.4371795326547,percent of GDP,2026-10-08
+CHN,China,2016,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,43.8678663976574,percent of GDP,2026-10-08
+CHN,China,2017,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.50488723669315,percent of GDP,2026-10-08
+CHN,China,2017,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.501760892272,percent of GDP,2026-10-08
+CHN,China,2017,NE.CON.PRVT.ZS,household_consumption_pct_gdp,38.9547629530877,percent of GDP,2026-10-08
+CHN,China,2017,NE.CON.TOTL.ZS,total_consumption_pct_gdp,55.4565238453596,percent of GDP,2026-10-08
+CHN,China,2017,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,42.5497375507577,percent of GDP,2026-10-08
+CHN,China,2017,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,44.5434761546404,percent of GDP,2026-10-08
+CHN,China,2017,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,44.3202552812278,percent of GDP,2026-10-08
+CHN,China,2018,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.170563391928727,percent of GDP,2026-10-08
+CHN,China,2018,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.8365384091475,percent of GDP,2026-10-08
+CHN,China,2018,NE.CON.PRVT.ZS,household_consumption_pct_gdp,38.9434900328533,percent of GDP,2026-10-08
+CHN,China,2018,NE.CON.TOTL.ZS,total_consumption_pct_gdp,55.7800284420008,percent of GDP,2026-10-08
+CHN,China,2018,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,43.313827489682,percent of GDP,2026-10-08
+CHN,China,2018,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,44.2199715579992,percent of GDP,2026-10-08
+CHN,China,2018,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,43.7715764233009,percent of GDP,2026-10-08
+CHN,China,2019,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.619961080716059,percent of GDP,2026-10-08
+CHN,China,2019,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.1510123948127,percent of GDP,2026-10-08
+CHN,China,2019,NE.CON.PRVT.ZS,household_consumption_pct_gdp,39.3519993191979,percent of GDP,2026-10-08
+CHN,China,2019,NE.CON.TOTL.ZS,total_consumption_pct_gdp,56.5030117140106,percent of GDP,2026-10-08
+CHN,China,2019,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,42.6695374085222,percent of GDP,2026-10-08
+CHN,China,2019,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,43.4969882859894,percent of GDP,2026-10-08
+CHN,China,2019,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,43.2925997301417,percent of GDP,2026-10-08
+CHN,China,2020,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.49179592498581,percent of GDP,2026-10-08
+CHN,China,2020,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.6037978191606,percent of GDP,2026-10-08
+CHN,China,2020,NE.CON.PRVT.ZS,household_consumption_pct_gdp,38.1684961438545,percent of GDP,2026-10-08
+CHN,China,2020,NE.CON.TOTL.ZS,total_consumption_pct_gdp,55.7722939630152,percent of GDP,2026-10-08
+CHN,China,2020,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,42.5723735094229,percent of GDP,2026-10-08
+CHN,China,2020,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,44.2277060369848,percent of GDP,2026-10-08
+CHN,China,2020,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,43.4998633494291,percent of GDP,2026-10-08
+CHN,China,2021,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.6339546037037,percent of GDP,2026-10-08
+CHN,China,2021,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.3512045683208,percent of GDP,2026-10-08
+CHN,China,2021,NE.CON.PRVT.ZS,household_consumption_pct_gdp,38.3739712034949,percent of GDP,2026-10-08
+CHN,China,2021,NE.CON.TOTL.ZS,total_consumption_pct_gdp,54.7251757718157,percent of GDP,2026-10-08
+CHN,China,2021,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,42.6822612949312,percent of GDP,2026-10-08
+CHN,China,2021,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,45.2748242281843,percent of GDP,2026-10-08
+CHN,China,2021,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,44.679938707538,percent of GDP,2026-10-08
+CHN,China,2022,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.20640460953833,percent of GDP,2026-10-08
+CHN,China,2022,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.6626986358672,percent of GDP,2026-10-08
+CHN,China,2022,NE.CON.PRVT.ZS,household_consumption_pct_gdp,37.7771550661597,percent of GDP,2026-10-08
+CHN,China,2022,NE.CON.TOTL.ZS,total_consumption_pct_gdp,54.4398618055615,percent of GDP,2026-10-08
+CHN,China,2022,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,42.3554333470499,percent of GDP,2026-10-08
+CHN,China,2022,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,45.5601381944385,percent of GDP,2026-10-08
+CHN,China,2022,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,44.8335710565362,percent of GDP,2026-10-08
+CHN,China,2023,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.40681103517506,percent of GDP,2026-10-08
+CHN,China,2023,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.1891419707315,percent of GDP,2026-10-08
+CHN,China,2023,NE.CON.PRVT.ZS,household_consumption_pct_gdp,39.568245214664,percent of GDP,2026-10-08
+CHN,China,2023,NE.CON.TOTL.ZS,total_consumption_pct_gdp,56.7573871853955,percent of GDP,2026-10-08
+CHN,China,2023,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,41.1297102455381,percent of GDP,2026-10-08
+CHN,China,2023,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,43.2426128146045,percent of GDP,2026-10-08
+CHN,China,2023,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,42.5717088559186,percent of GDP,2026-10-08
+CHN,China,2024,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.46818591485776,percent of GDP,2026-10-08
+CHN,China,2024,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.7084895385701,percent of GDP,2026-10-08
+CHN,China,2024,NE.CON.PRVT.ZS,household_consumption_pct_gdp,39.9704554568611,percent of GDP,2026-10-08
+CHN,China,2024,NE.CON.TOTL.ZS,total_consumption_pct_gdp,56.6789524134646,percent of GDP,2026-10-08
+CHN,China,2024,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,40.4815134449629,percent of GDP,2026-10-08
+CHN,China,2024,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,43.3210475865354,percent of GDP,2026-10-08
+CHN,China,2024,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,42.7150109198495,percent of GDP,2026-10-08
+JPN,Japan,2000,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.59184009101981,percent of GDP,2026-10-08
+JPN,Japan,2000,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.2988493817018,percent of GDP,2026-10-08
+JPN,Japan,2000,NE.CON.PRVT.ZS,household_consumption_pct_gdp,52.7047369610456,percent of GDP,2026-10-08
+JPN,Japan,2000,NE.CON.TOTL.ZS,total_consumption_pct_gdp,69.0035863427475,percent of GDP,2026-10-08
+JPN,Japan,2000,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.6518295721637,percent of GDP,2026-10-08
+JPN,Japan,2000,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,30.9964136572525,percent of GDP,2026-10-08
+JPN,Japan,2000,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,32.226897643242,percent of GDP,2026-10-08
+JPN,Japan,2001,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.94241825757612,percent of GDP,2026-10-08
+JPN,Japan,2001,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.9871214974893,percent of GDP,2026-10-08
+JPN,Japan,2001,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.4202219480292,percent of GDP,2026-10-08
+JPN,Japan,2001,NE.CON.TOTL.ZS,total_consumption_pct_gdp,70.4073434455185,percent of GDP,2026-10-08
+JPN,Japan,2001,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.0072549095213,percent of GDP,2026-10-08
+JPN,Japan,2001,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,29.5926565544815,percent of GDP,2026-10-08
+JPN,Japan,2001,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,30.9468310340449,percent of GDP,2026-10-08
+JPN,Japan,2002,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.56388731159671,percent of GDP,2026-10-08
+JPN,Japan,2002,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.5230676412891,percent of GDP,2026-10-08
+JPN,Japan,2002,NE.CON.PRVT.ZS,household_consumption_pct_gdp,54.0328457967343,percent of GDP,2026-10-08
+JPN,Japan,2002,NE.CON.TOTL.ZS,total_consumption_pct_gdp,71.5559134380233,percent of GDP,2026-10-08
+JPN,Japan,2002,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.1990800742612,percent of GDP,2026-10-08
+JPN,Japan,2002,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,28.4440865619767,percent of GDP,2026-10-08
+JPN,Japan,2002,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,29.7659095325359,percent of GDP,2026-10-08
+JPN,Japan,2003,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.04762578307198,percent of GDP,2026-10-08
+JPN,Japan,2003,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.6035501284581,percent of GDP,2026-10-08
+JPN,Japan,2003,NE.CON.PRVT.ZS,household_consumption_pct_gdp,54.0183564379367,percent of GDP,2026-10-08
+JPN,Japan,2003,NE.CON.TOTL.ZS,total_consumption_pct_gdp,71.6219254267823,percent of GDP,2026-10-08
+JPN,Japan,2003,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.7915010567475,percent of GDP,2026-10-08
+JPN,Japan,2003,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,28.3780745732177,percent of GDP,2026-10-08
+JPN,Japan,2003,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,29.8104602122409,percent of GDP,2026-10-08
+JPN,Japan,2004,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.68297677752484,percent of GDP,2026-10-08
+JPN,Japan,2004,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.5017268819927,percent of GDP,2026-10-08
+JPN,Japan,2004,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.9460726504351,percent of GDP,2026-10-08
+JPN,Japan,2004,NE.CON.TOTL.ZS,total_consumption_pct_gdp,71.4477995324279,percent of GDP,2026-10-08
+JPN,Japan,2004,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.6630018549135,percent of GDP,2026-10-08
+JPN,Japan,2004,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,28.5522004675721,percent of GDP,2026-10-08
+JPN,Japan,2004,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,30.3046804780382,percent of GDP,2026-10-08
+JPN,Japan,2005,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.48923328988266,percent of GDP,2026-10-08
+JPN,Japan,2005,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.5160759916723,percent of GDP,2026-10-08
+JPN,Japan,2005,NE.CON.PRVT.ZS,household_consumption_pct_gdp,54.0914226889762,percent of GDP,2026-10-08
+JPN,Japan,2005,NE.CON.TOTL.ZS,total_consumption_pct_gdp,71.6074986806484,percent of GDP,2026-10-08
+JPN,Japan,2005,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.0047258465622,percent of GDP,2026-10-08
+JPN,Japan,2005,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,28.3925013193516,percent of GDP,2026-10-08
+JPN,Japan,2005,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,30.435900399459,percent of GDP,2026-10-08
+JPN,Japan,2006,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.75797234839519,percent of GDP,2026-10-08
+JPN,Japan,2006,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.3348120303534,percent of GDP,2026-10-08
+JPN,Japan,2006,NE.CON.PRVT.ZS,household_consumption_pct_gdp,54.2965336332659,percent of GDP,2026-10-08
+JPN,Japan,2006,NE.CON.TOTL.ZS,total_consumption_pct_gdp,71.6313456636192,percent of GDP,2026-10-08
+JPN,Japan,2006,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.0851292904104,percent of GDP,2026-10-08
+JPN,Japan,2006,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,28.3686543363808,percent of GDP,2026-10-08
+JPN,Japan,2006,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,30.7861914859199,percent of GDP,2026-10-08
+JPN,Japan,2007,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,4.57839452711193,percent of GDP,2026-10-08
+JPN,Japan,2007,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.3297481265532,percent of GDP,2026-10-08
+JPN,Japan,2007,NE.CON.PRVT.ZS,household_consumption_pct_gdp,54.1242640309043,percent of GDP,2026-10-08
+JPN,Japan,2007,NE.CON.TOTL.ZS,total_consumption_pct_gdp,71.4540305205326,percent of GDP,2026-10-08
+JPN,Japan,2007,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.8035156474517,percent of GDP,2026-10-08
+JPN,Japan,2007,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,28.5459694794674,percent of GDP,2026-10-08
+JPN,Japan,2007,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,31.3337221106681,percent of GDP,2026-10-08
+JPN,Japan,2008,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.7540795597976,percent of GDP,2026-10-08
+JPN,Japan,2008,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.6813434344154,percent of GDP,2026-10-08
+JPN,Japan,2008,NE.CON.PRVT.ZS,household_consumption_pct_gdp,55.0243608670691,percent of GDP,2026-10-08
+JPN,Japan,2008,NE.CON.TOTL.ZS,total_consumption_pct_gdp,72.7057043014845,percent of GDP,2026-10-08
+JPN,Japan,2008,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.957915866231,percent of GDP,2026-10-08
+JPN,Japan,2008,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,27.2942956985155,percent of GDP,2026-10-08
+JPN,Japan,2008,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,29.7016885393561,percent of GDP,2026-10-08
+JPN,Japan,2009,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.72970030740046,percent of GDP,2026-10-08
+JPN,Japan,2009,NE.CON.GOVT.ZS,government_consumption_pct_gdp,19.0444721731763,percent of GDP,2026-10-08
+JPN,Japan,2009,NE.CON.PRVT.ZS,household_consumption_pct_gdp,56.8520172852664,percent of GDP,2026-10-08
+JPN,Japan,2009,NE.CON.TOTL.ZS,total_consumption_pct_gdp,75.8964894584426,percent of GDP,2026-10-08
+JPN,Japan,2009,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,23.6595838247106,percent of GDP,2026-10-08
+JPN,Japan,2009,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,24.1035105415574,percent of GDP,2026-10-08
+JPN,Japan,2009,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,26.3633389932188,percent of GDP,2026-10-08
+JPN,Japan,2010,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.80082624691883,percent of GDP,2026-10-08
+JPN,Japan,2010,NE.CON.GOVT.ZS,government_consumption_pct_gdp,18.9527729272536,percent of GDP,2026-10-08
+JPN,Japan,2010,NE.CON.PRVT.ZS,household_consumption_pct_gdp,56.1495324025032,percent of GDP,2026-10-08
+JPN,Japan,2010,NE.CON.TOTL.ZS,total_consumption_pct_gdp,75.1023053297568,percent of GDP,2026-10-08
+JPN,Japan,2010,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,23.5722339532159,percent of GDP,2026-10-08
+JPN,Japan,2010,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,24.8976946702432,percent of GDP,2026-10-08
+JPN,Japan,2010,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,27.3250376618032,percent of GDP,2026-10-08
+JPN,Japan,2011,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.06383124200042,percent of GDP,2026-10-08
+JPN,Japan,2011,NE.CON.GOVT.ZS,government_consumption_pct_gdp,19.6755211097853,percent of GDP,2026-10-08
+JPN,Japan,2011,NE.CON.PRVT.ZS,household_consumption_pct_gdp,56.5152192392575,percent of GDP,2026-10-08
+JPN,Japan,2011,NE.CON.TOTL.ZS,total_consumption_pct_gdp,76.1907403490428,percent of GDP,2026-10-08
+JPN,Japan,2011,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,24.451572608163,percent of GDP,2026-10-08
+JPN,Japan,2011,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,23.8092596509572,percent of GDP,2026-10-08
+JPN,Japan,2011,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,26.4765417956248,percent of GDP,2026-10-08
+JPN,Japan,2012,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.949145258884221,percent of GDP,2026-10-08
+JPN,Japan,2012,NE.CON.GOVT.ZS,government_consumption_pct_gdp,19.729504957783,percent of GDP,2026-10-08
+JPN,Japan,2012,NE.CON.PRVT.ZS,household_consumption_pct_gdp,56.9101963662382,percent of GDP,2026-10-08
+JPN,Japan,2012,NE.CON.TOTL.ZS,total_consumption_pct_gdp,76.6397013240212,percent of GDP,2026-10-08
+JPN,Japan,2012,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,24.9867673070268,percent of GDP,2026-10-08
+JPN,Japan,2012,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,23.3602986759788,percent of GDP,2026-10-08
+JPN,Japan,2012,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,25.8689648374274,percent of GDP,2026-10-08
+JPN,Japan,2013,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.879664701194643,percent of GDP,2026-10-08
+JPN,Japan,2013,NE.CON.GOVT.ZS,government_consumption_pct_gdp,19.6310664026448,percent of GDP,2026-10-08
+JPN,Japan,2013,NE.CON.PRVT.ZS,household_consumption_pct_gdp,57.3797505525667,percent of GDP,2026-10-08
+JPN,Japan,2013,NE.CON.TOTL.ZS,total_consumption_pct_gdp,77.0108363895441,percent of GDP,2026-10-08
+JPN,Japan,2013,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,25.3731148940256,percent of GDP,2026-10-08
+JPN,Japan,2013,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,22.9891636104559,percent of GDP,2026-10-08
+JPN,Japan,2013,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,26.1985175657253,percent of GDP,2026-10-08
+JPN,Japan,2014,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.72910539728354,percent of GDP,2026-10-08
+JPN,Japan,2014,NE.CON.GOVT.ZS,government_consumption_pct_gdp,19.569565912101,percent of GDP,2026-10-08
+JPN,Japan,2014,NE.CON.PRVT.ZS,household_consumption_pct_gdp,56.6310801877112,percent of GDP,2026-10-08
+JPN,Japan,2014,NE.CON.TOTL.ZS,total_consumption_pct_gdp,76.2006460998123,percent of GDP,2026-10-08
+JPN,Japan,2014,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.3479533735846,percent of GDP,2026-10-08
+JPN,Japan,2014,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,23.7993539001877,percent of GDP,2026-10-08
+JPN,Japan,2014,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,27.0705807856305,percent of GDP,2026-10-08
+JPN,Japan,2015,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.00967361767899,percent of GDP,2026-10-08
+JPN,Japan,2015,NE.CON.GOVT.ZS,government_consumption_pct_gdp,19.1606996744383,percent of GDP,2026-10-08
+JPN,Japan,2015,NE.CON.PRVT.ZS,household_consumption_pct_gdp,54.8305444655323,percent of GDP,2026-10-08
+JPN,Japan,2015,NE.CON.TOTL.ZS,total_consumption_pct_gdp,73.9912441399706,percent of GDP,2026-10-08
+JPN,Japan,2015,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.5521482720668,percent of GDP,2026-10-08
+JPN,Japan,2015,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,26.0087558600294,percent of GDP,2026-10-08
+JPN,Japan,2015,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,29.5062296371995,percent of GDP,2026-10-08
+JPN,Japan,2016,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.85588282294836,percent of GDP,2026-10-08
+JPN,Japan,2016,NE.CON.GOVT.ZS,government_consumption_pct_gdp,19.1952236323288,percent of GDP,2026-10-08
+JPN,Japan,2016,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.7762068713705,percent of GDP,2026-10-08
+JPN,Japan,2016,NE.CON.TOTL.ZS,total_consumption_pct_gdp,72.9714484902619,percent of GDP,2026-10-08
+JPN,Japan,2016,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.2400385919687,percent of GDP,2026-10-08
+JPN,Japan,2016,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,27.0285515097381,percent of GDP,2026-10-08
+JPN,Japan,2016,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,30.0504260277434,percent of GDP,2026-10-08
+JPN,Japan,2017,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,4.0325404216365,percent of GDP,2026-10-08
+JPN,Japan,2017,NE.CON.GOVT.ZS,government_consumption_pct_gdp,18.9878945850343,percent of GDP,2026-10-08
+JPN,Japan,2017,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.6347034872301,percent of GDP,2026-10-08
+JPN,Japan,2017,NE.CON.TOTL.ZS,total_consumption_pct_gdp,72.6226157676525,percent of GDP,2026-10-08
+JPN,Japan,2017,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.6345672327421,percent of GDP,2026-10-08
+JPN,Japan,2017,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,27.3773842323475,percent of GDP,2026-10-08
+JPN,Japan,2017,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,30.6225132962492,percent of GDP,2026-10-08
+JPN,Japan,2018,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.43924007536727,percent of GDP,2026-10-08
+JPN,Japan,2018,NE.CON.GOVT.ZS,government_consumption_pct_gdp,19.1049339062309,percent of GDP,2026-10-08
+JPN,Japan,2018,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.7399840289131,percent of GDP,2026-10-08
+JPN,Japan,2018,NE.CON.TOTL.ZS,total_consumption_pct_gdp,72.844917935144,percent of GDP,2026-10-08
+JPN,Japan,2018,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.1363524954164,percent of GDP,2026-10-08
+JPN,Japan,2018,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,27.155082064856,percent of GDP,2026-10-08
+JPN,Japan,2018,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,30.5434682630387,percent of GDP,2026-10-08
+JPN,Japan,2019,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.36672218972422,percent of GDP,2026-10-08
+JPN,Japan,2019,NE.CON.GOVT.ZS,government_consumption_pct_gdp,19.4451575446193,percent of GDP,2026-10-08
+JPN,Japan,2019,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.5131803063105,percent of GDP,2026-10-08
+JPN,Japan,2019,NE.CON.TOTL.ZS,total_consumption_pct_gdp,72.9583378509298,percent of GDP,2026-10-08
+JPN,Japan,2019,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.3243645927693,percent of GDP,2026-10-08
+JPN,Japan,2019,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,27.0416621490702,percent of GDP,2026-10-08
+JPN,Japan,2019,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,30.6240011045675,percent of GDP,2026-10-08
+JPN,Japan,2020,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.89117777881579,percent of GDP,2026-10-08
+JPN,Japan,2020,NE.CON.GOVT.ZS,government_consumption_pct_gdp,20.4376163201187,percent of GDP,2026-10-08
+JPN,Japan,2020,NE.CON.PRVT.ZS,household_consumption_pct_gdp,52.9377462665664,percent of GDP,2026-10-08
+JPN,Japan,2020,NE.CON.TOTL.ZS,total_consumption_pct_gdp,73.3753625866851,percent of GDP,2026-10-08
+JPN,Japan,2020,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.8864795052794,percent of GDP,2026-10-08
+JPN,Japan,2020,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,26.6246374133149,percent of GDP,2026-10-08
+JPN,Japan,2020,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,29.732609381488,percent of GDP,2026-10-08
+JPN,Japan,2021,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.76057343034322,percent of GDP,2026-10-08
+JPN,Japan,2021,NE.CON.GOVT.ZS,government_consumption_pct_gdp,20.5324975835506,percent of GDP,2026-10-08
+JPN,Japan,2021,NE.CON.PRVT.ZS,household_consumption_pct_gdp,52.643763049873,percent of GDP,2026-10-08
+JPN,Japan,2021,NE.CON.TOTL.ZS,total_consumption_pct_gdp,73.1762606334236,percent of GDP,2026-10-08
+JPN,Japan,2021,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.3251613407145,percent of GDP,2026-10-08
+JPN,Japan,2021,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,26.8237393665764,percent of GDP,2026-10-08
+JPN,Japan,2021,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,31.013077665037,percent of GDP,2026-10-08
+JPN,Japan,2022,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.0281112293848,percent of GDP,2026-10-08
+JPN,Japan,2022,NE.CON.GOVT.ZS,government_consumption_pct_gdp,20.7103565973432,percent of GDP,2026-10-08
+JPN,Japan,2022,NE.CON.PRVT.ZS,household_consumption_pct_gdp,54.5437635044314,percent of GDP,2026-10-08
+JPN,Japan,2022,NE.CON.TOTL.ZS,total_consumption_pct_gdp,75.2541201017746,percent of GDP,2026-10-08
+JPN,Japan,2022,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,28.3107762241995,percent of GDP,2026-10-08
+JPN,Japan,2022,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,24.7458798982254,percent of GDP,2026-10-08
+JPN,Japan,2022,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,30.2224047860993,percent of GDP,2026-10-08
+JPN,Japan,2023,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.61127531871254,percent of GDP,2026-10-08
+JPN,Japan,2023,NE.CON.GOVT.ZS,government_consumption_pct_gdp,20.0946215543648,percent of GDP,2026-10-08
+JPN,Japan,2023,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.5977293424216,percent of GDP,2026-10-08
+JPN,Japan,2023,NE.CON.TOTL.ZS,total_consumption_pct_gdp,73.6923508967864,percent of GDP,2026-10-08
+JPN,Japan,2023,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.7841122147677,percent of GDP,2026-10-08
+JPN,Japan,2023,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,26.3076491032136,percent of GDP,2026-10-08
+JPN,Japan,2023,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,31.3839931639213,percent of GDP,2026-10-08
+JPN,Japan,2024,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,4.62202410018022,percent of GDP,2026-10-08
+JPN,Japan,2024,NE.CON.GOVT.ZS,government_consumption_pct_gdp,20.1443964769656,percent of GDP,2026-10-08
+JPN,Japan,2024,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.069552493906,percent of GDP,2026-10-08
+JPN,Japan,2024,NE.CON.TOTL.ZS,total_consumption_pct_gdp,73.2139489708716,percent of GDP,2026-10-08
+JPN,Japan,2024,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.6791711471936,percent of GDP,2026-10-08
+JPN,Japan,2024,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,26.7860510291284,percent of GDP,2026-10-08
+JPN,Japan,2024,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,32.0592419328935,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2000,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.7039361599544,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2000,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.5657622556615,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2000,NE.CON.PRVT.ZS,household_consumption_pct_gdp,54.6008139906229,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2000,NE.CON.TOTL.ZS,total_consumption_pct_gdp,65.1665762462844,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2000,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,33.0175871343191,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2000,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,34.8334237537156,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2000,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,34.1523016364387,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2001,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.381489475071825,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2001,NE.CON.GOVT.ZS,government_consumption_pct_gdp,11.3505361029289,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2001,NE.CON.PRVT.ZS,household_consumption_pct_gdp,55.4672426732554,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2001,NE.CON.TOTL.ZS,total_consumption_pct_gdp,66.8177787761843,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2001,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,31.8665946248999,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2001,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,33.1822212238157,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2001,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,32.3069789406776,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2002,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.625539996245813,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2002,NE.CON.GOVT.ZS,government_consumption_pct_gdp,11.3173666243086,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2002,NE.CON.PRVT.ZS,household_consumption_pct_gdp,56.2767960764629,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2002,NE.CON.TOTL.ZS,total_consumption_pct_gdp,67.5941627007715,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2002,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,31.3062897445161,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2002,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,32.4058372992285,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2002,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,31.7224565569361,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2003,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.55223664563709,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2003,NE.CON.GOVT.ZS,government_consumption_pct_gdp,11.6926460752812,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2003,NE.CON.PRVT.ZS,household_consumption_pct_gdp,54.4504467518309,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2003,NE.CON.TOTL.ZS,total_consumption_pct_gdp,66.1430928271121,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2003,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,32.3968627960539,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2003,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,33.8569071728879,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2003,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,33.0859200866618,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2004,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.55783305096389,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2004,NE.CON.GOVT.ZS,government_consumption_pct_gdp,11.8856980801376,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2004,NE.CON.PRVT.ZS,household_consumption_pct_gdp,52.0528849055129,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2004,NE.CON.TOTL.ZS,total_consumption_pct_gdp,63.9385829856505,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2004,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,32.6846860376336,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2004,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,36.0614170143495,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2004,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,35.5253578218517,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2005,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.25636444462509,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2005,NE.CON.GOVT.ZS,government_consumption_pct_gdp,12.3342666695472,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2005,NE.CON.PRVT.ZS,household_consumption_pct_gdp,52.8103234052687,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2005,NE.CON.TOTL.ZS,total_consumption_pct_gdp,65.1445900748159,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2005,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,32.7143604319037,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2005,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,34.855409925184,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2005,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,33.8405960110945,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2006,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.191275272898578,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2006,NE.CON.GOVT.ZS,government_consumption_pct_gdp,12.8064371013535,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2006,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.6213763666925,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2006,NE.CON.TOTL.ZS,total_consumption_pct_gdp,66.4278230313546,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2006,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,33.0040207975187,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2006,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,33.5721769686454,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2006,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,32.8912214742854,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2007,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.857760495298849,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2007,NE.CON.GOVT.ZS,government_consumption_pct_gdp,12.8258089855345,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2007,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.1403219962112,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2007,NE.CON.TOTL.ZS,total_consumption_pct_gdp,65.9661309817457,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2007,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,33.2491377792946,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2007,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,34.0338690182543,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2007,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,33.4309889399337,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2008,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,0.160592800145373,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2008,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.3680401279198,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2008,NE.CON.PRVT.ZS,household_consumption_pct_gdp,53.2921980204209,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2008,NE.CON.TOTL.ZS,total_consumption_pct_gdp,66.6602381483407,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2008,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,33.7038348910437,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2008,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,33.3397618516593,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2008,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,33.2480829152876,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2009,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.36575830090763,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2009,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.9553200396238,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2009,NE.CON.PRVT.ZS,household_consumption_pct_gdp,52.5417039915781,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2009,NE.CON.TOTL.ZS,total_consumption_pct_gdp,66.497024031202,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2009,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.5580079908835,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2009,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,33.502975968798,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2009,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,33.13093501319,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2010,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,2.34320897623578,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2010,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.5041083461487,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2010,NE.CON.PRVT.ZS,household_consumption_pct_gdp,51.200788540329,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2010,NE.CON.TOTL.ZS,total_consumption_pct_gdp,64.7048968864778,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2010,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,32.7792421992313,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2010,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,35.2951031135222,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2010,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,34.9926210564103,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2011,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.27290610804572,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2011,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.7084319244367,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2011,NE.CON.PRVT.ZS,household_consumption_pct_gdp,52.1481999282606,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2011,NE.CON.TOTL.ZS,total_consumption_pct_gdp,65.8566318526972,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2011,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,33.2613430738444,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2011,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,34.1433681473028,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2011,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,34.3761288710455,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2012,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.65378622367594,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2012,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.0026335270874,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2012,NE.CON.PRVT.ZS,household_consumption_pct_gdp,52.2526173607959,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2012,NE.CON.TOTL.ZS,total_consumption_pct_gdp,66.2552508878833,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2012,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,31.2149587741292,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2012,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,33.7447491121167,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2012,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,34.336867195596,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2013,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,5.38513504027402,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2013,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.2597016228901,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2013,NE.CON.PRVT.ZS,household_consumption_pct_gdp,51.5410854481736,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2013,NE.CON.TOTL.ZS,total_consumption_pct_gdp,65.8007870710637,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2013,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.8990183063853,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2013,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,34.1992129289363,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2013,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,34.5161248108137,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2014,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,5.33522703805369,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2014,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.4870309446874,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2014,NE.CON.PRVT.ZS,household_consumption_pct_gdp,51.0825916725013,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2014,NE.CON.TOTL.ZS,total_consumption_pct_gdp,65.5696226171888,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2014,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.7893883422049,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2014,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,34.4303773828112,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2014,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,34.5717402109559,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2015,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,6.82937629347486,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2015,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.3464638758806,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2015,NE.CON.PRVT.ZS,household_consumption_pct_gdp,49.7932416347652,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2015,NE.CON.TOTL.ZS,total_consumption_pct_gdp,64.1397055106458,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2015,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.3122032932439,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2015,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,35.8602944893542,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2015,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,35.8343334005639,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2016,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,6.20103649558332,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2016,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.4415307448348,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2016,NE.CON.PRVT.ZS,household_consumption_pct_gdp,49.2498253980602,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2016,NE.CON.TOTL.ZS,total_consumption_pct_gdp,63.6913506874368,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2016,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.9823963274728,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2016,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,36.3086493125632,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2016,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,36.2906518682135,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2017,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,4.39896168114518,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2017,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.5742094583287,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2017,NE.CON.PRVT.ZS,household_consumption_pct_gdp,48.9548601128333,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2017,NE.CON.TOTL.ZS,total_consumption_pct_gdp,63.5290644011564,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2017,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,31.9652912711332,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2017,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,36.4709355988436,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2017,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,36.4505350479154,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2018,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,4.24648147146115,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2018,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.1402621209188,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2018,NE.CON.PRVT.ZS,household_consumption_pct_gdp,49.4138963898146,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2018,NE.CON.TOTL.ZS,total_consumption_pct_gdp,64.5541634933578,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2018,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,31.2486531343572,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2018,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,35.4458365066422,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2018,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,35.3783014506542,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2019,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,3.40802631398853,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2019,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.06298714056,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2019,NE.CON.PRVT.ZS,household_consumption_pct_gdp,50.1058294635048,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2019,NE.CON.TOTL.ZS,total_consumption_pct_gdp,66.168821504598,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2019,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,31.1955884616555,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2019,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,33.831178495402,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2019,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,34.2941170155552,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2020,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,4.38648608581777,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2020,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.9828462110022,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2020,NE.CON.PRVT.ZS,household_consumption_pct_gdp,47.8068503908128,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2020,NE.CON.TOTL.ZS,total_consumption_pct_gdp,64.7896917438297,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2020,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,31.5248657192138,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2020,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,35.2103082561703,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2020,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,35.7761638265864,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2021,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,4.31851487245382,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2021,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.0244387167472,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2021,NE.CON.PRVT.ZS,household_consumption_pct_gdp,47.1113066583303,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2021,NE.CON.TOTL.ZS,total_consumption_pct_gdp,64.135749875704,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2021,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,32.4929253527445,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2021,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,35.864250124296,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2021,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,36.6043931161577,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2022,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.29147917850335,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2022,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.6379104489815,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2022,NE.CON.PRVT.ZS,household_consumption_pct_gdp,49.0320281833727,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2022,NE.CON.TOTL.ZS,total_consumption_pct_gdp,66.6699386323542,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2022,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,33.3254869272348,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2022,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,33.3300613676458,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2022,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,34.3078343934928,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2023,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,1.76334472698699,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2023,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.7751832803211,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2023,NE.CON.PRVT.ZS,household_consumption_pct_gdp,49.9486442283876,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2023,NE.CON.TOTL.ZS,total_consumption_pct_gdp,67.7238275087087,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2023,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,31.8912200894147,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2023,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,32.2761724912913,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2023,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,33.3597970548711,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2024,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,5.33081628105267,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2024,NE.CON.GOVT.ZS,government_consumption_pct_gdp,17.4846082538666,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2024,NE.CON.PRVT.ZS,household_consumption_pct_gdp,48.4862941515628,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2024,NE.CON.TOTL.ZS,total_consumption_pct_gdp,65.9709024054294,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2024,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.9738499299961,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2024,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,34.0290975945706,percent of GDP,2026-10-08
+KOR,"Korea, Rep.",2024,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,35.0305415292226,percent of GDP,2026-10-08
+SGP,Singapore,2000,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,11.0715031927897,percent of GDP,2026-10-08
+SGP,Singapore,2000,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.5041646441155,percent of GDP,2026-10-08
+SGP,Singapore,2000,NE.CON.PRVT.ZS,household_consumption_pct_gdp,41.855216732958,percent of GDP,2026-10-08
+SGP,Singapore,2000,NE.CON.TOTL.ZS,total_consumption_pct_gdp,52.3593813770736,percent of GDP,2026-10-08
+SGP,Singapore,2000,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,35.1740359977879,percent of GDP,2026-10-08
+SGP,Singapore,2000,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,47.6406186229264,percent of GDP,2026-10-08
+SGP,Singapore,2000,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,46.3748639816815,percent of GDP,2026-10-08
+SGP,Singapore,2001,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,14.4329302808565,percent of GDP,2026-10-08
+SGP,Singapore,2001,NE.CON.GOVT.ZS,government_consumption_pct_gdp,11.6099265565097,percent of GDP,2026-10-08
+SGP,Singapore,2001,NE.CON.PRVT.ZS,household_consumption_pct_gdp,46.244971582292,percent of GDP,2026-10-08
+SGP,Singapore,2001,NE.CON.TOTL.ZS,total_consumption_pct_gdp,57.8548981388017,percent of GDP,2026-10-08
+SGP,Singapore,2001,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.6094317950146,percent of GDP,2026-10-08
+SGP,Singapore,2001,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,42.1451018611983,percent of GDP,2026-10-08
+SGP,Singapore,2001,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,40.0817720006283,percent of GDP,2026-10-08
+SGP,Singapore,2002,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,14.8770537568056,percent of GDP,2026-10-08
+SGP,Singapore,2002,NE.CON.GOVT.ZS,government_consumption_pct_gdp,11.8403288872956,percent of GDP,2026-10-08
+SGP,Singapore,2002,NE.CON.PRVT.ZS,household_consumption_pct_gdp,46.1824848927055,percent of GDP,2026-10-08
+SGP,Singapore,2002,NE.CON.TOTL.ZS,total_consumption_pct_gdp,58.0228137800011,percent of GDP,2026-10-08
+SGP,Singapore,2002,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,25.0736127933875,percent of GDP,2026-10-08
+SGP,Singapore,2002,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,41.9771862199989,percent of GDP,2026-10-08
+SGP,Singapore,2002,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,38.4280208891596,percent of GDP,2026-10-08
+SGP,Singapore,2003,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,24.3020823146557,percent of GDP,2026-10-08
+SGP,Singapore,2003,NE.CON.GOVT.ZS,government_consumption_pct_gdp,11.4140839970397,percent of GDP,2026-10-08
+SGP,Singapore,2003,NE.CON.PRVT.ZS,household_consumption_pct_gdp,45.5353610642972,percent of GDP,2026-10-08
+SGP,Singapore,2003,NE.CON.TOTL.ZS,total_consumption_pct_gdp,56.9494450613369,percent of GDP,2026-10-08
+SGP,Singapore,2003,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,17.2245248736318,percent of GDP,2026-10-08
+SGP,Singapore,2003,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,43.0505549386631,percent of GDP,2026-10-08
+SGP,Singapore,2003,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,39.398793615194,percent of GDP,2026-10-08
+SGP,Singapore,2004,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,19.3111213606955,percent of GDP,2026-10-08
+SGP,Singapore,2004,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.318670184588,percent of GDP,2026-10-08
+SGP,Singapore,2004,NE.CON.PRVT.ZS,household_consumption_pct_gdp,41.9984261930845,percent of GDP,2026-10-08
+SGP,Singapore,2004,NE.CON.TOTL.ZS,total_consumption_pct_gdp,52.3170963776725,percent of GDP,2026-10-08
+SGP,Singapore,2004,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,22.8924616706012,percent of GDP,2026-10-08
+SGP,Singapore,2004,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,47.6829036223275,percent of GDP,2026-10-08
+SGP,Singapore,2004,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,40.6143506457402,percent of GDP,2026-10-08
+SGP,Singapore,2005,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,23.2604773041195,percent of GDP,2026-10-08
+SGP,Singapore,2005,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.89714323321879,percent of GDP,2026-10-08
+SGP,Singapore,2005,NE.CON.PRVT.ZS,household_consumption_pct_gdp,39.8478772864241,percent of GDP,2026-10-08
+SGP,Singapore,2005,NE.CON.TOTL.ZS,total_consumption_pct_gdp,49.7450205196429,percent of GDP,2026-10-08
+SGP,Singapore,2005,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.506936250429,percent of GDP,2026-10-08
+SGP,Singapore,2005,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,50.2549794803571,percent of GDP,2026-10-08
+SGP,Singapore,2005,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,43.62664151037,percent of GDP,2026-10-08
+SGP,Singapore,2006,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,26.893381350331,percent of GDP,2026-10-08
+SGP,Singapore,2006,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.90693550272105,percent of GDP,2026-10-08
+SGP,Singapore,2006,NE.CON.PRVT.ZS,household_consumption_pct_gdp,38.1060964063164,percent of GDP,2026-10-08
+SGP,Singapore,2006,NE.CON.TOTL.ZS,total_consumption_pct_gdp,48.0130319090375,percent of GDP,2026-10-08
+SGP,Singapore,2006,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,22.3792634447668,percent of GDP,2026-10-08
+SGP,Singapore,2006,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,51.9869680909625,percent of GDP,2026-10-08
+SGP,Singapore,2006,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,48.1685207360732,percent of GDP,2026-10-08
+SGP,Singapore,2007,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,27.1433325306869,percent of GDP,2026-10-08
+SGP,Singapore,2007,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.13612734398836,percent of GDP,2026-10-08
+SGP,Singapore,2007,NE.CON.PRVT.ZS,household_consumption_pct_gdp,36.7659634701589,percent of GDP,2026-10-08
+SGP,Singapore,2007,NE.CON.TOTL.ZS,total_consumption_pct_gdp,45.9020908141473,percent of GDP,2026-10-08
+SGP,Singapore,2007,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,23.0659529090098,percent of GDP,2026-10-08
+SGP,Singapore,2007,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,54.0979091858527,percent of GDP,2026-10-08
+SGP,Singapore,2007,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,49.970919838469,percent of GDP,2026-10-08
+SGP,Singapore,2008,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,15.08343561816,percent of GDP,2026-10-08
+SGP,Singapore,2008,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.1132139112862,percent of GDP,2026-10-08
+SGP,Singapore,2008,NE.CON.PRVT.ZS,household_consumption_pct_gdp,39.9509238465425,percent of GDP,2026-10-08
+SGP,Singapore,2008,NE.CON.TOTL.ZS,total_consumption_pct_gdp,50.0641377578287,percent of GDP,2026-10-08
+SGP,Singapore,2008,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,30.1596763689779,percent of GDP,2026-10-08
+SGP,Singapore,2008,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,49.9358622421713,percent of GDP,2026-10-08
+SGP,Singapore,2008,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,44.3584688806777,percent of GDP,2026-10-08
+SGP,Singapore,2009,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,16.3930632928179,percent of GDP,2026-10-08
+SGP,Singapore,2009,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.92997384864082,percent of GDP,2026-10-08
+SGP,Singapore,2009,NE.CON.PRVT.ZS,household_consumption_pct_gdp,39.1029216220571,percent of GDP,2026-10-08
+SGP,Singapore,2009,NE.CON.TOTL.ZS,total_consumption_pct_gdp,49.0328954706979,percent of GDP,2026-10-08
+SGP,Singapore,2009,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.3701152111674,percent of GDP,2026-10-08
+SGP,Singapore,2009,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,50.9671045293021,percent of GDP,2026-10-08
+SGP,Singapore,2009,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,43.8631060213423,percent of GDP,2026-10-08
+SGP,Singapore,2010,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,22.9333472183784,percent of GDP,2026-10-08
+SGP,Singapore,2010,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.691568385966,percent of GDP,2026-10-08
+SGP,Singapore,2010,NE.CON.PRVT.ZS,household_consumption_pct_gdp,36.3378382965814,percent of GDP,2026-10-08
+SGP,Singapore,2010,NE.CON.TOTL.ZS,total_consumption_pct_gdp,46.0294066825473,percent of GDP,2026-10-08
+SGP,Singapore,2010,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.6582275190447,percent of GDP,2026-10-08
+SGP,Singapore,2010,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,53.9705933174527,percent of GDP,2026-10-08
+SGP,Singapore,2010,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,50.5915809058007,percent of GDP,2026-10-08
+SGP,Singapore,2011,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,22.2184518342372,percent of GDP,2026-10-08
+SGP,Singapore,2011,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.23684263701949,percent of GDP,2026-10-08
+SGP,Singapore,2011,NE.CON.PRVT.ZS,household_consumption_pct_gdp,36.6156100201527,percent of GDP,2026-10-08
+SGP,Singapore,2011,NE.CON.TOTL.ZS,total_consumption_pct_gdp,45.8524526571722,percent of GDP,2026-10-08
+SGP,Singapore,2011,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.6919943455279,percent of GDP,2026-10-08
+SGP,Singapore,2011,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,54.1475473428278,percent of GDP,2026-10-08
+SGP,Singapore,2011,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,48.8092109004309,percent of GDP,2026-10-08
+SGP,Singapore,2012,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,17.6432739045994,percent of GDP,2026-10-08
+SGP,Singapore,2012,NE.CON.GOVT.ZS,government_consumption_pct_gdp,8.85786688468844,percent of GDP,2026-10-08
+SGP,Singapore,2012,NE.CON.PRVT.ZS,household_consumption_pct_gdp,37.3060480705479,percent of GDP,2026-10-08
+SGP,Singapore,2012,NE.CON.TOTL.ZS,total_consumption_pct_gdp,46.1639149552364,percent of GDP,2026-10-08
+SGP,Singapore,2012,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.2629426703058,percent of GDP,2026-10-08
+SGP,Singapore,2012,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,53.8360850447636,percent of GDP,2026-10-08
+SGP,Singapore,2012,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,47.2531022096686,percent of GDP,2026-10-08
+SGP,Singapore,2013,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,15.7071875902089,percent of GDP,2026-10-08
+SGP,Singapore,2013,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.74421772737465,percent of GDP,2026-10-08
+SGP,Singapore,2013,NE.CON.PRVT.ZS,household_consumption_pct_gdp,37.3334601292955,percent of GDP,2026-10-08
+SGP,Singapore,2013,NE.CON.TOTL.ZS,total_consumption_pct_gdp,47.0776778566702,percent of GDP,2026-10-08
+SGP,Singapore,2013,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.9795021855415,percent of GDP,2026-10-08
+SGP,Singapore,2013,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,52.9223221433299,percent of GDP,2026-10-08
+SGP,Singapore,2013,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,45.5156971062719,percent of GDP,2026-10-08
+SGP,Singapore,2014,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,17.9502135491877,percent of GDP,2026-10-08
+SGP,Singapore,2014,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.6310320219758,percent of GDP,2026-10-08
+SGP,Singapore,2014,NE.CON.PRVT.ZS,household_consumption_pct_gdp,37.5843813189642,percent of GDP,2026-10-08
+SGP,Singapore,2014,NE.CON.TOTL.ZS,total_consumption_pct_gdp,47.21541334094,percent of GDP,2026-10-08
+SGP,Singapore,2014,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,29.4300082792766,percent of GDP,2026-10-08
+SGP,Singapore,2014,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,52.78458665906,percent of GDP,2026-10-08
+SGP,Singapore,2014,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,47.2950477994746,percent of GDP,2026-10-08
+SGP,Singapore,2015,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,18.6930222903094,percent of GDP,2026-10-08
+SGP,Singapore,2015,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.1909083158792,percent of GDP,2026-10-08
+SGP,Singapore,2015,NE.CON.PRVT.ZS,household_consumption_pct_gdp,37.1580806061532,percent of GDP,2026-10-08
+SGP,Singapore,2015,NE.CON.TOTL.ZS,total_consumption_pct_gdp,47.3489889220324,percent of GDP,2026-10-08
+SGP,Singapore,2015,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,25.353193018866,percent of GDP,2026-10-08
+SGP,Singapore,2015,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,52.6510110779676,percent of GDP,2026-10-08
+SGP,Singapore,2015,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,44.0462153091754,percent of GDP,2026-10-08
+SGP,Singapore,2016,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,18.0266123608265,percent of GDP,2026-10-08
+SGP,Singapore,2016,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.2003729716507,percent of GDP,2026-10-08
+SGP,Singapore,2016,NE.CON.PRVT.ZS,household_consumption_pct_gdp,36.3367540454155,percent of GDP,2026-10-08
+SGP,Singapore,2016,NE.CON.TOTL.ZS,total_consumption_pct_gdp,46.5371270170662,percent of GDP,2026-10-08
+SGP,Singapore,2016,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,26.3428829842065,percent of GDP,2026-10-08
+SGP,Singapore,2016,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,53.4628729829338,percent of GDP,2026-10-08
+SGP,Singapore,2016,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,45.2357210400528,percent of GDP,2026-10-08
+SGP,Singapore,2017,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,18.4885963302097,percent of GDP,2026-10-08
+SGP,Singapore,2017,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.1400187593382,percent of GDP,2026-10-08
+SGP,Singapore,2017,NE.CON.PRVT.ZS,household_consumption_pct_gdp,35.184722354654,percent of GDP,2026-10-08
+SGP,Singapore,2017,NE.CON.TOTL.ZS,total_consumption_pct_gdp,45.3247411139922,percent of GDP,2026-10-08
+SGP,Singapore,2017,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,27.1803110118491,percent of GDP,2026-10-08
+SGP,Singapore,2017,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,54.6752588860078,percent of GDP,2026-10-08
+SGP,Singapore,2017,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,46.6182575489954,percent of GDP,2026-10-08
+SGP,Singapore,2018,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,15.6764327413725,percent of GDP,2026-10-08
+SGP,Singapore,2018,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.93983489411381,percent of GDP,2026-10-08
+SGP,Singapore,2018,NE.CON.PRVT.ZS,household_consumption_pct_gdp,34.6144914073386,percent of GDP,2026-10-08
+SGP,Singapore,2018,NE.CON.TOTL.ZS,total_consumption_pct_gdp,44.5543263014524,percent of GDP,2026-10-08
+SGP,Singapore,2018,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,24.6650062452141,percent of GDP,2026-10-08
+SGP,Singapore,2018,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,55.4456736985476,percent of GDP,2026-10-08
+SGP,Singapore,2018,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,41.4218332441414,percent of GDP,2026-10-08
+SGP,Singapore,2019,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,15.4536632743622,percent of GDP,2026-10-08
+SGP,Singapore,2019,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.2533964942464,percent of GDP,2026-10-08
+SGP,Singapore,2019,NE.CON.PRVT.ZS,household_consumption_pct_gdp,35.8453938812817,percent of GDP,2026-10-08
+SGP,Singapore,2019,NE.CON.TOTL.ZS,total_consumption_pct_gdp,46.0987903755281,percent of GDP,2026-10-08
+SGP,Singapore,2019,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,24.3414821182522,percent of GDP,2026-10-08
+SGP,Singapore,2019,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,53.9012096244719,percent of GDP,2026-10-08
+SGP,Singapore,2019,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,39.9868811642176,percent of GDP,2026-10-08
+SGP,Singapore,2020,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,17.6975168735288,percent of GDP,2026-10-08
+SGP,Singapore,2020,NE.CON.GOVT.ZS,government_consumption_pct_gdp,12.1901477913834,percent of GDP,2026-10-08
+SGP,Singapore,2020,NE.CON.PRVT.ZS,household_consumption_pct_gdp,32.1474323259087,percent of GDP,2026-10-08
+SGP,Singapore,2020,NE.CON.TOTL.ZS,total_consumption_pct_gdp,44.3375801172921,percent of GDP,2026-10-08
+SGP,Singapore,2020,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,22.930549192946,percent of GDP,2026-10-08
+SGP,Singapore,2020,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,55.6624198827079,percent of GDP,2026-10-08
+SGP,Singapore,2020,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,42.0805317790255,percent of GDP,2026-10-08
+SGP,Singapore,2021,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,19.2527773366463,percent of GDP,2026-10-08
+SGP,Singapore,2021,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.5326977430922,percent of GDP,2026-10-08
+SGP,Singapore,2021,NE.CON.PRVT.ZS,household_consumption_pct_gdp,28.7802404556001,percent of GDP,2026-10-08
+SGP,Singapore,2021,NE.CON.TOTL.ZS,total_consumption_pct_gdp,39.3129381986923,percent of GDP,2026-10-08
+SGP,Singapore,2021,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,24.1177810588483,percent of GDP,2026-10-08
+SGP,Singapore,2021,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,60.6870618013077,percent of GDP,2026-10-08
+SGP,Singapore,2021,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,44.1544994049441,percent of GDP,2026-10-08
+SGP,Singapore,2022,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,18.9227008880076,percent of GDP,2026-10-08
+SGP,Singapore,2022,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.12894949526293,percent of GDP,2026-10-08
+SGP,Singapore,2022,NE.CON.PRVT.ZS,household_consumption_pct_gdp,28.0991081591519,percent of GDP,2026-10-08
+SGP,Singapore,2022,NE.CON.TOTL.ZS,total_consumption_pct_gdp,37.2280576544148,percent of GDP,2026-10-08
+SGP,Singapore,2022,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.8791987960219,percent of GDP,2026-10-08
+SGP,Singapore,2022,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,62.7719423455852,percent of GDP,2026-10-08
+SGP,Singapore,2022,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,41.9202431450759,percent of GDP,2026-10-08
+SGP,Singapore,2023,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,16.3916456531586,percent of GDP,2026-10-08
+SGP,Singapore,2023,NE.CON.GOVT.ZS,government_consumption_pct_gdp,9.84210326953167,percent of GDP,2026-10-08
+SGP,Singapore,2023,NE.CON.PRVT.ZS,household_consumption_pct_gdp,31.5131162969589,percent of GDP,2026-10-08
+SGP,Singapore,2023,NE.CON.TOTL.ZS,total_consumption_pct_gdp,41.3552195664906,percent of GDP,2026-10-08
+SGP,Singapore,2023,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.1305685622627,percent of GDP,2026-10-08
+SGP,Singapore,2023,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,58.6447804335094,percent of GDP,2026-10-08
+SGP,Singapore,2023,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,37.8776158568895,percent of GDP,2026-10-08
+SGP,Singapore,2024,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,17.2010838902762,percent of GDP,2026-10-08
+SGP,Singapore,2024,NE.CON.GOVT.ZS,government_consumption_pct_gdp,10.0531876328793,percent of GDP,2026-10-08
+SGP,Singapore,2024,NE.CON.PRVT.ZS,household_consumption_pct_gdp,30.6842804842602,percent of GDP,2026-10-08
+SGP,Singapore,2024,NE.CON.TOTL.ZS,total_consumption_pct_gdp,40.7374681171395,percent of GDP,2026-10-08
+SGP,Singapore,2024,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.8490850721263,percent of GDP,2026-10-08
+SGP,Singapore,2024,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,59.2625318828605,percent of GDP,2026-10-08
+SGP,Singapore,2024,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,40.4512885852667,percent of GDP,2026-10-08
+USA,United States,2000,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-3.77979528145288,percent of GDP,2026-10-08
+USA,United States,2000,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.0239462637226,percent of GDP,2026-10-08
+USA,United States,2000,NE.CON.PRVT.ZS,household_consumption_pct_gdp,66.0151271803829,percent of GDP,2026-10-08
+USA,United States,2000,NE.CON.TOTL.ZS,total_consumption_pct_gdp,80.0390734441055,percent of GDP,2026-10-08
+USA,United States,2000,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,23.6783666531655,percent of GDP,2026-10-08
+USA,United States,2000,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,19.9609265558945,percent of GDP,2026-10-08
+USA,United States,2000,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,20.8112378245455,percent of GDP,2026-10-08
+USA,United States,2001,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-3.58135081042407,percent of GDP,2026-10-08
+USA,United States,2001,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.535639012509,percent of GDP,2026-10-08
+USA,United States,2001,NE.CON.PRVT.ZS,household_consumption_pct_gdp,66.8479348141534,percent of GDP,2026-10-08
+USA,United States,2001,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.3835738266624,percent of GDP,2026-10-08
+USA,United States,2001,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,22.17672222144,percent of GDP,2026-10-08
+USA,United States,2001,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.6164261733376,percent of GDP,2026-10-08
+USA,United States,2001,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,19.6557546360404,percent of GDP,2026-10-08
+USA,United States,2002,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-4.07172296220332,percent of GDP,2026-10-08
+USA,United States,2002,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.0590423298955,percent of GDP,2026-10-08
+USA,United States,2002,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.2419103187561,percent of GDP,2026-10-08
+USA,United States,2002,NE.CON.TOTL.ZS,total_consumption_pct_gdp,82.3009526486517,percent of GDP,2026-10-08
+USA,United States,2002,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.7226602573604,percent of GDP,2026-10-08
+USA,United States,2002,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,17.6990473513483,percent of GDP,2026-10-08
+USA,United States,2002,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,18.3798805904379,percent of GDP,2026-10-08
+USA,United States,2003,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-4.45597894635773,percent of GDP,2026-10-08
+USA,United States,2003,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.243622588149,percent of GDP,2026-10-08
+USA,United States,2003,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.5667331503214,percent of GDP,2026-10-08
+USA,United States,2003,NE.CON.TOTL.ZS,total_consumption_pct_gdp,82.8103644671779,percent of GDP,2026-10-08
+USA,United States,2003,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.7456280086763,percent of GDP,2026-10-08
+USA,United States,2003,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,17.1896355328221,percent of GDP,2026-10-08
+USA,United States,2003,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,17.4279030589755,percent of GDP,2026-10-08
+USA,United States,2004,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-5.09880499584356,percent of GDP,2026-10-08
+USA,United States,2004,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.1583063740649,percent of GDP,2026-10-08
+USA,United States,2004,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.3801091510687,percent of GDP,2026-10-08
+USA,United States,2004,NE.CON.TOTL.ZS,total_consumption_pct_gdp,82.5384155251336,percent of GDP,2026-10-08
+USA,United States,2004,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,22.6521453858971,percent of GDP,2026-10-08
+USA,United States,2004,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,17.4615844748664,percent of GDP,2026-10-08
+USA,United States,2004,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,17.7316218877065,percent of GDP,2026-10-08
+USA,United States,2005,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-5.64194252146049,percent of GDP,2026-10-08
+USA,United States,2005,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.0471459247069,percent of GDP,2026-10-08
+USA,United States,2005,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.2515799860988,percent of GDP,2026-10-08
+USA,United States,2005,NE.CON.TOTL.ZS,total_consumption_pct_gdp,82.2987259108057,percent of GDP,2026-10-08
+USA,United States,2005,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,23.3757186121201,percent of GDP,2026-10-08
+USA,United States,2005,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,17.7012740891943,percent of GDP,2026-10-08
+USA,United States,2005,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,18.1197277715798,percent of GDP,2026-10-08
+USA,United States,2006,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-5.81369602716006,percent of GDP,2026-10-08
+USA,United States,2006,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.0044554761098,percent of GDP,2026-10-08
+USA,United States,2006,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.1505212628378,percent of GDP,2026-10-08
+USA,United States,2006,NE.CON.TOTL.ZS,total_consumption_pct_gdp,82.1549767389476,percent of GDP,2026-10-08
+USA,United States,2006,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,23.5375300484967,percent of GDP,2026-10-08
+USA,United States,2006,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,17.8450232610524,percent of GDP,2026-10-08
+USA,United States,2006,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,19.1957805906562,percent of GDP,2026-10-08
+USA,United States,2007,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-4.98394802126925,percent of GDP,2026-10-08
+USA,United States,2007,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.1892867792327,percent of GDP,2026-10-08
+USA,United States,2007,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.3375740661264,percent of GDP,2026-10-08
+USA,United States,2007,NE.CON.TOTL.ZS,total_consumption_pct_gdp,82.5268608453591,percent of GDP,2026-10-08
+USA,United States,2007,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,22.5575761277216,percent of GDP,2026-10-08
+USA,United States,2007,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,17.4731391546409,percent of GDP,2026-10-08
+USA,United States,2007,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,17.4227806830181,percent of GDP,2026-10-08
+USA,United States,2008,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-4.58066568259067,percent of GDP,2026-10-08
+USA,United States,2008,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.9340689845308,percent of GDP,2026-10-08
+USA,United States,2008,NE.CON.PRVT.ZS,household_consumption_pct_gdp,68.0445287843583,percent of GDP,2026-10-08
+USA,United States,2008,NE.CON.TOTL.ZS,total_consumption_pct_gdp,83.9785977688891,percent of GDP,2026-10-08
+USA,United States,2008,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.0374883665128,percent of GDP,2026-10-08
+USA,United States,2008,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,16.0214022311109,percent of GDP,2026-10-08
+USA,United States,2008,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,15.0535326599531,percent of GDP,2026-10-08
+USA,United States,2009,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-2.50957534593534,percent of GDP,2026-10-08
+USA,United States,2009,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.8076926291334,percent of GDP,2026-10-08
+USA,United States,2009,NE.CON.PRVT.ZS,household_consumption_pct_gdp,68.3186367351388,percent of GDP,2026-10-08
+USA,United States,2009,NE.CON.TOTL.ZS,total_consumption_pct_gdp,85.1263362712716,percent of GDP,2026-10-08
+USA,United States,2009,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,17.768753245858,percent of GDP,2026-10-08
+USA,United States,2009,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,14.8736637287284,percent of GDP,2026-10-08
+USA,United States,2009,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,13.8885598471122,percent of GDP,2026-10-08
+USA,United States,2010,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-2.74500495748181,percent of GDP,2026-10-08
+USA,United States,2010,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.6858385201221,percent of GDP,2026-10-08
+USA,United States,2010,NE.CON.PRVT.ZS,household_consumption_pct_gdp,68.1791200208971,percent of GDP,2026-10-08
+USA,United States,2010,NE.CON.TOTL.ZS,total_consumption_pct_gdp,84.8649651859918,percent of GDP,2026-10-08
+USA,United States,2010,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,18.6722135353972,percent of GDP,2026-10-08
+USA,United States,2010,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,15.1350348140082,percent of GDP,2026-10-08
+USA,United States,2010,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,15.3781212017752,percent of GDP,2026-10-08
+USA,United States,2011,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-2.78205420452095,percent of GDP,2026-10-08
+USA,United States,2011,NE.CON.GOVT.ZS,government_consumption_pct_gdp,16.0984239985661,percent of GDP,2026-10-08
+USA,United States,2011,NE.CON.PRVT.ZS,household_consumption_pct_gdp,68.5835948976559,percent of GDP,2026-10-08
+USA,United States,2011,NE.CON.TOTL.ZS,total_consumption_pct_gdp,84.6820188962221,percent of GDP,2026-10-08
+USA,United States,2011,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,19.0335385248926,percent of GDP,2026-10-08
+USA,United States,2011,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,15.3179811037779,percent of GDP,2026-10-08
+USA,United States,2011,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,16.3303190080445,percent of GDP,2026-10-08
+USA,United States,2012,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-2.4320888988967,percent of GDP,2026-10-08
+USA,United States,2012,NE.CON.GOVT.ZS,government_consumption_pct_gdp,15.4758437477121,percent of GDP,2026-10-08
+USA,United States,2012,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.9671674058707,percent of GDP,2026-10-08
+USA,United States,2012,NE.CON.TOTL.ZS,total_consumption_pct_gdp,83.4430173059259,percent of GDP,2026-10-08
+USA,United States,2012,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,19.9507258841994,percent of GDP,2026-10-08
+USA,United States,2012,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,16.5569826940741,percent of GDP,2026-10-08
+USA,United States,2012,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,18.3712040812183,percent of GDP,2026-10-08
+USA,United States,2013,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-1.90651646026408,percent of GDP,2026-10-08
+USA,United States,2013,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.9919585599706,percent of GDP,2026-10-08
+USA,United States,2013,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.4631056101225,percent of GDP,2026-10-08
+USA,United States,2013,NE.CON.TOTL.ZS,total_consumption_pct_gdp,82.4550641700931,percent of GDP,2026-10-08
+USA,United States,2013,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,20.3792642750296,percent of GDP,2026-10-08
+USA,United States,2013,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,17.5449358299069,percent of GDP,2026-10-08
+USA,United States,2013,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,18.556044207453,percent of GDP,2026-10-08
+USA,United States,2014,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-1.99192555169661,percent of GDP,2026-10-08
+USA,United States,2014,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.5516578754664,percent of GDP,2026-10-08
+USA,United States,2014,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.4372838286479,percent of GDP,2026-10-08
+USA,United States,2014,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.9889473833065,percent of GDP,2026-10-08
+USA,United States,2014,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,20.9011935276745,percent of GDP,2026-10-08
+USA,United States,2014,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.0110526166935,percent of GDP,2026-10-08
+USA,United States,2014,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,19.6508568935568,percent of GDP,2026-10-08
+USA,United States,2015,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-2.13599122252893,percent of GDP,2026-10-08
+USA,United States,2015,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.2333167295426,percent of GDP,2026-10-08
+USA,United States,2015,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.2174103782018,percent of GDP,2026-10-08
+USA,United States,2015,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.4507271077445,percent of GDP,2026-10-08
+USA,United States,2015,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.4151895660781,percent of GDP,2026-10-08
+USA,United States,2015,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.5492728922555,percent of GDP,2026-10-08
+USA,United States,2015,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,19.6937975303551,percent of GDP,2026-10-08
+USA,United States,2016,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-2.02080700931719,percent of GDP,2026-10-08
+USA,United States,2016,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.1100041249858,percent of GDP,2026-10-08
+USA,United States,2016,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.6783189584552,percent of GDP,2026-10-08
+USA,United States,2016,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.788323083441,percent of GDP,2026-10-08
+USA,United States,2016,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,20.8879562484549,percent of GDP,2026-10-08
+USA,United States,2016,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.211676916559,percent of GDP,2026-10-08
+USA,United States,2016,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,18.5552041639331,percent of GDP,2026-10-08
+USA,United States,2017,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-1.77880983894536,percent of GDP,2026-10-08
+USA,United States,2017,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.8471337748498,percent of GDP,2026-10-08
+USA,United States,2017,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.7674733692493,percent of GDP,2026-10-08
+USA,United States,2017,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.6146071440991,percent of GDP,2026-10-08
+USA,United States,2017,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.1557690246563,percent of GDP,2026-10-08
+USA,United States,2017,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.3853928559009,percent of GDP,2026-10-08
+USA,United States,2017,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,18.9773232874273,percent of GDP,2026-10-08
+USA,United States,2018,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-2.03056023581131,percent of GDP,2026-10-08
+USA,United States,2018,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.8442126445718,percent of GDP,2026-10-08
+USA,United States,2018,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.4578520404893,percent of GDP,2026-10-08
+USA,United States,2018,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.3020598439737,percent of GDP,2026-10-08
+USA,United States,2018,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.5690729259474,percent of GDP,2026-10-08
+USA,United States,2018,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.6979401560263,percent of GDP,2026-10-08
+USA,United States,2018,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,19.2273760008706,percent of GDP,2026-10-08
+USA,United States,2019,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-1.87698392691322,percent of GDP,2026-10-08
+USA,United States,2019,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.9835585749329,percent of GDP,2026-10-08
+USA,United States,2019,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.0267180353261,percent of GDP,2026-10-08
+USA,United States,2019,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.010276610259,percent of GDP,2026-10-08
+USA,United States,2019,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.6698091948266,percent of GDP,2026-10-08
+USA,United States,2019,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.989723389741,percent of GDP,2026-10-08
+USA,United States,2019,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,19.4937117403348,percent of GDP,2026-10-08
+USA,United States,2020,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-2.75842923421685,percent of GDP,2026-10-08
+USA,United States,2020,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.8775026630059,percent of GDP,2026-10-08
+USA,United States,2020,NE.CON.PRVT.ZS,household_consumption_pct_gdp,66.5785539848576,percent of GDP,2026-10-08
+USA,United States,2020,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.4560613261646,percent of GDP,2026-10-08
+USA,United States,2020,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.4377205146449,percent of GDP,2026-10-08
+USA,United States,2020,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.5439386738354,percent of GDP,2026-10-08
+USA,United States,2020,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,18.3602077558653,percent of GDP,2026-10-08
+USA,United States,2021,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-3.60455110914793,percent of GDP,2026-10-08
+USA,United States,2021,NE.CON.GOVT.ZS,government_consumption_pct_gdp,14.2309724351013,percent of GDP,2026-10-08
+USA,United States,2021,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.9420180146841,percent of GDP,2026-10-08
+USA,United States,2021,NE.CON.TOTL.ZS,total_consumption_pct_gdp,82.1729904497855,percent of GDP,2026-10-08
+USA,United States,2021,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.4064022284747,percent of GDP,2026-10-08
+USA,United States,2021,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,17.8270095502145,percent of GDP,2026-10-08
+USA,United States,2021,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,17.6907350674766,percent of GDP,2026-10-08
+USA,United States,2022,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-3.7320030916597,percent of GDP,2026-10-08
+USA,United States,2022,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.6769940249355,percent of GDP,2026-10-08
+USA,United States,2022,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.8958936025688,percent of GDP,2026-10-08
+USA,United States,2022,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.5728876275043,percent of GDP,2026-10-08
+USA,United States,2022,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,22.0268164402666,percent of GDP,2026-10-08
+USA,United States,2022,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.4271123724957,percent of GDP,2026-10-08
+USA,United States,2022,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,18.2793304863392,percent of GDP,2026-10-08
+USA,United States,2023,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-3.3489507242629,percent of GDP,2026-10-08
+USA,United States,2023,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.5407140861824,percent of GDP,2026-10-08
+USA,United States,2023,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.7170900098689,percent of GDP,2026-10-08
+USA,United States,2023,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.2578040960513,percent of GDP,2026-10-08
+USA,United States,2023,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.5701430454153,percent of GDP,2026-10-08
+USA,United States,2023,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.7421959039487,percent of GDP,2026-10-08
+USA,United States,2023,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,17.1045901595371,percent of GDP,2026-10-08
+USA,United States,2024,BN.CAB.XOKA.GD.ZS,current_account_pct_gdp,-4.09115799081665,percent of GDP,2026-10-08
+USA,United States,2024,NE.CON.GOVT.ZS,government_consumption_pct_gdp,13.6249512893588,percent of GDP,2026-10-08
+USA,United States,2024,NE.CON.PRVT.ZS,household_consumption_pct_gdp,67.9090728780822,percent of GDP,2026-10-08
+USA,United States,2024,NE.CON.TOTL.ZS,total_consumption_pct_gdp,81.534024167441,percent of GDP,2026-10-08
+USA,United States,2024,NE.GDI.TOTL.ZS,gross_capital_formation_pct_gdp,21.5325967668865,percent of GDP,2026-10-08
+USA,United States,2024,NY.GDS.TOTL.ZS,gross_domestic_saving_pct_gdp,18.465975832559,percent of GDP,2026-10-08
+USA,United States,2024,NY.GNS.ICTR.ZS,gross_national_saving_pct_gdp,16.5919955049511,percent of GDP,2026-10-08

@@ -1,0 +1,26 @@
+{
+  "sector": {
+    "china_2023": {
+      "household_gross_saving_pct_gdp": 21.229707796284195,
+      "corporate_gross_saving_pct_gdp": 22.217560655927194,
+      "government_gross_saving_pct_gdp": -0.8756044036194255,
+      "national_gross_saving_pct_gdp_reported": 42.57165632223899,
+      "national_gross_saving_pct_gdp_component_sum": 42.57166404859196,
+      "household_saving_rate": 34.91846261729394,
+      "household_income_pct_gdp": 60.79794528459519
+    },
+    "us_2024": {
+      "household_gross_saving_pct_gdp": 7.070448494777801,
+      "corporate_proxy_gross_saving_pct_gdp": 11.997064646050926,
+      "broad_business_gross_saving_pct_gdp": 13.687965048808792,
+      "government_gross_saving_pct_gdp": -4.264454911598061
+    }
+  },
+  "decomposition": {
+    "income_channel_pp": 1.9524461214811817,
+    "saving_channel_pp": 3.0398972642297597,
+    "interaction_pp": 0.15
+  },
+  "change_pp": 5.142343385710942,
+  "scope": "Accounting only, not estimated behavioral effects"
+}

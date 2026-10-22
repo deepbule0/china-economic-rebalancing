@@ -1,0 +1,5 @@
+matplotlib>=3.7
+numpy>=1.24
+reportlab>=4.0
+fonttools>=4.45
+pypdf>=4.0

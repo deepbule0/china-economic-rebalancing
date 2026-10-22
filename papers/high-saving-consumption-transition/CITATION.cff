@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this bilingual working paper and retain the data-vintage qualifications."
+type: report
+title: "From Capital Accumulation to Household Welfare: Sectoral Saving, Fiscal Institutions, and China's Consumption Transition"
+authors:
+  - name: "deepbule0"
+version: "1.0"
+date-released: 2026-10-22
+url: "https://github.com/deepbule0/china-economic-rebalancing/tree/main/papers/high-saving-consumption-transition"
+repository-code: "https://github.com/deepbule0/china-economic-rebalancing"
+keywords:
+  - sectoral saving
+  - household consumption
+  - fiscal policy
+  - China
+  - comparative macroeconomics
+abstract: "A bilingual comparative research working paper on saving, household income, risk sharing, capital allocation, and fiscal institutions in China, Japan, Korea, Singapore, and the United States. Prepared with ChatGPT assistance; not peer reviewed."

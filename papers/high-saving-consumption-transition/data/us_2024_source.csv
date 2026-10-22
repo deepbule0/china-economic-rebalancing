@@ -1,0 +1,12 @@
+item,value,unit,source
+GDP,29298.0,USD billion,Fed 2026-03-19 F.2 line 1
+household_net_saving,1193.2,USD billion,Fed 2026-03-19 F.4 line 7
+household_cfc,878.3,USD billion,Fed 2026-03-19 F.4 line 17
+nonfinancial_corporate_net_saving,651.3,USD billion,Fed 2026-03-19 F.4 line 5
+nonfinancial_corporate_cfc,2274.4,USD billion,Fed 2026-03-19 F.4 line 14
+financial_business_net_saving,244.4,USD billion,Fed 2026-03-19 F.4 line 6
+financial_business_cfc,344.8,USD billion,Fed 2026-03-19 F.4 line 16
+domestic_business_net_saving,895.7,USD billion,Fed 2026-03-19 F.4 line 4
+domestic_business_cfc,3114.6,USD billion,Fed 2026-03-19 F.4 line 13
+government_net_saving,-2053.2,USD billion,Fed 2026-03-19 F.4 line 8
+government_cfc,803.8,USD billion,Fed 2026-03-19 F.4 line 18
